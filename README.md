@@ -4,8 +4,8 @@ It is developed using Java Technologies. The main purpose of the project is to m
 
 This is The login window and will be displayed when the application is executed. Here, the user has to enter his/her user ID and password.
 
-![Login Window Screenshot](/Screenshots/Login_window.PNG?raw=true "Login Window")
+<img src="/Screenshots/Login_window.PNG" alt="Login Window" width="400" height="300"/>
 
 After successful login, a prompt will be displayed giving message of successful login.
 
-![Successful Login Screenshot](/Screenshots/successful_login.PNG?raw=true "Successful Login")
+<img src="/Screenshots/successful_login.PNG" alt="Successful Login" width="400" height="300"/>
