@@ -14,4 +14,5 @@ After successful login, a prompt will be displayed giving message of successful 
 <img src="/Screenshots/successful_login.PNG" alt="Successful Login" width="400" height="300"/>
 
 Following is the home window which has buttons for various tasks:
+
 <img src="/Screenshots/home_window.PNG" alt="Home Window" width="400" height="300"/>
